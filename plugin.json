@@ -1,6 +1,6 @@
 {
-  "id": "acode.plugin",
-  "name": "Plugin",
+  "id": "SDBD.Coding",
+  "name": "SDBD Coding",
   "main": "main.js",
   "version": "1.0.0",
   "readme": "readme.md",
@@ -9,8 +9,9 @@
   "minVersionCode" : 290,
   "price": 0,
   "author": {
-    "name": "",
-    "email": "",
-    "github": ""
+    "name": "Sarkar Developer",
+    "email": "sarkardeveloperbd@gmail.com",
+	"url": "https://github.com/SD-BD/SDBD_Coding",
+    "github": "SD-BD"
   }
 }
