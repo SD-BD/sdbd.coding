@@ -1,10 +1,10 @@
 {
-  "name": "acode-plugin",
+  "name": "SDBD_Coding",
   "version": "1.0.0",
-  "description": "Template for Acode plugin",
+  "description": "a powerful cloud-based drag-and-drop coding platform designed for both beginners and advanced users. With SDBD Coding, you can create, edit, and manage code effortlessly—without requiring any prior coding knowledge.",
   "main": "src/main.js",
-  "repository": "https://github.com/Acode-Foundation/acode-plugin.git",
-  "author": "Acode Foundation",
+  "repository": "https://github.com/SD-BD/SDBD_Coding",
+  "author": "Sarkar Developer",
   "license": "MIT",
   "dependencies": {
     "@types/ace": "^0.0.50",
